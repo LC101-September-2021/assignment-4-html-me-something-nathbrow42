@@ -5,8 +5,9 @@ body {
   display: block;
 }
 
-#mainheading {
+#mainHeading {
   color: red;
+  font-size: large;
 }
 
 .funParagraph {
