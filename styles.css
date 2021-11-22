@@ -13,3 +13,7 @@ body {
 .funParagraph {
   color: green;
 }
+
+img {
+  width: 300px;
+}
