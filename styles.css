@@ -5,10 +5,10 @@ body {
   display: block;
 }
 
-.mainheading {
+#mainheading {
   color: red;
 }
 
-#funParagraph {
+.funParagraph {
   color: green;
 }
